@@ -1,0 +1,15 @@
+*{
+    background-color: darkturquoise;
+}
+.presentacionPersonal{
+    color: aliceblue;
+}
+img{
+    border: solid 1px black;
+}
+a:hover{
+    color: red;
+}
+.div2{
+    margin-top: 10px;
+}
