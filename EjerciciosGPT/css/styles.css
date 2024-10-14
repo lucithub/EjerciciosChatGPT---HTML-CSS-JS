@@ -1,5 +1,5 @@
 *{
-    background-color: darkturquoise;
+    background-color: rgb(142, 253, 255);
 }
 .presentacionPersonal{
     color: aliceblue;
@@ -28,4 +28,21 @@ a:hover{
 }
 #cardMeImg{
     border-radius: 5px;
+}
+body{
+    background-color: rgb(142, 253, 255) !important;
+}
+#formularioContacto{
+    margin-top: 12.5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.titulos{
+    text-align: center;
+}
+textarea{
+    text-align: center;
+}
+#btnContacto{
+    margin-left: 5px;
 }
